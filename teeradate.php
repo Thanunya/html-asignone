@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
 <style>  
 body {background-image: url(https://a-static.besthdwallpaper.com/th-ngfaaehnuue-emkhaelaphra-aathitytk-wx-ll-pepexr-1920x1080-1593_48.jpg);
