@@ -19,6 +19,7 @@ body {
   <body>
 
         <h1>ประวัติส่วนตัว</h1>
+<img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/45730612_1894512847329722_5194925478959382528_n.jpg?_nc_cat=108&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEn4TjZZZxkX1KGb0PIcxrjYud0RfQ_cx1i53RF9D9zHR8mfqNola7CS5PZbCrf3aL63A3rWqaWUCeUOln3zljf&_nc_ohc=kKrtidYv5zsAX9OOl5G&_nc_ht=scontent.fbkk5-7.fna&oh=d13b90adc6558ab5473c937d09a4a2a4&oe=6004FEE8"  width="250" height="300" >
 <p>ชื่อ-นามสกุล : จินตนา ณ วิเชียร</p>
 <p>เพศ : หญิง    อายุ : 20 ปี</p>
 <p>รหัสนักศึกษา : 620710784</p>
